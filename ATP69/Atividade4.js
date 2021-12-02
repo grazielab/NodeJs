@@ -10,4 +10,4 @@ for(let i = valor; i > 0; i--){
     console.log(i, fatorial);
 }
 
-console.log("O fatorial de" + valor + " é igual a: " + fatorial);
+console.log("O fatorial de " + valor + " = " + fatorial);
