@@ -1,5 +1,5 @@
 import { Sequelize } from "sequelize";
-import Database from "./db/Database.js";
+import Database from "./Database.js";
 
 const ClienteTable = Database.define('tabelacliente', {
     id:{
